@@ -1,5 +1,8 @@
 User Management API
-Run server on port:300
+
+Run server on port:3000
+
+Use Endpoint:
 http://localhost:3000/api/users
 
 This project implements a simple User Management API using Express, following the MVC (Model-View-Controller) architectural pattern. The API allows you to retrieve a list of users, as well as add new users to the system.
