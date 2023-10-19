@@ -1,0 +1,94 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Adeoye Onaopemipo",
+        "email": "onaopeadeoye@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "2",
+        "name": "Olorunsaye Emmanuel",
+        "email": "emmanuelseyi@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "3",
+        "name": "Caleb Wealth",
+        "email": "Calebwealth@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "4",
+        "name": "Oladejo Folunke",
+        "email": "oladejofolunke@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "5",
+        "name": "Immaculate Kehinde",
+        "email": "ImmaculateKehinde@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "6",
+        "name": "Habibat Rahmat",
+        "email": "habibarahamat@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "7",
+        "name": "Emmanuel Maxwell",
+        "email": "emmanuelmaxwell@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "8",
+        "name": "grace Adie",
+        "email": "graceadie@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "9",
+        "name": "Toluwase Lolade",
+        "email": "toluwaselolade@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "10",
+        "name": "Ajayi gboyega",
+        "email": "ajayigboyega@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "11",
+        "name": "Adenigbagbe Olamide",
+        "email": "adenigbagbeolamide@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "12",
+        "name": "Frank Edwin",
+        "email": "frankedwin@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "13",
+        "name": "Folasade Adepoju",
+        "email": "folaadepoju@gmail.com",
+        "gender": "Female"
+      },
+      {
+        "id": "14",
+        "name": "Adams Adams",
+        "email": "adamsadams@gmail.com",
+        "gender": "Male"
+      },
+      {
+        "id": "15",
+        "name": "Tinuke Folasade",
+        "email": "tinukefolasade@gmail.com",
+        "gender": "Female"
+      }
+    ]
+  }
